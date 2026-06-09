@@ -3363,6 +3363,7 @@ input, select, textarea {
 				#wrapper > section.intro > .content {
 					height: 100vh;
 					max-width: none;
+					padding: 0 !important;
 				}
 
 			#wrapper > section:last-of-type > header:before {
